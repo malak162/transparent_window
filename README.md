@@ -13,3 +13,5 @@
 `pip install pywin32`
 
 ### 不具备python环境
+
+下载[release]中的exe文件即可
